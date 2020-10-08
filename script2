@@ -1,0 +1,27 @@
+#!/bin/bash
+cd ~/lab0
+chmod 404 budew2
+chmod u=rwx,g=rwx,o=rwx elgyem9
+cd elgyem9
+chmod 640 poliwrath
+chmod 060 lilligant
+chmod 771 cottonee
+chmod 737 budew
+cd ../
+chmod 004 quilava6
+cd salamence5
+chmod 006 medititle
+chmod 317 pidgey
+chmod 764 archeops
+chmod 753 furret
+chmod 500 hoothoot
+cd ../
+chmod 400 sealeo8
+cd vigoroth8
+chmod 666 dugtrio
+chmod 373 nidoqueen
+chmod 524 piloswine
+chmod 335 lileep
+cd ../
+chmod 312 salamence5
+chmod 375 vigoroth8

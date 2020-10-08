@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ~/lab0
+rm -f budew2
+rm -f elgyem9/lilligant
+rm -f Copy_*
+rm -f salamence5/medititequila*
+rm -rf elgyem9
+rm -rf vigoroth8/piloswine

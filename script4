@@ -1,0 +1,8 @@
+#!/bin/bash
+cd ~/lab0
+wc -l ./*8 */*8 */*/*8 */*/*/*8 */*/*/*/*8 2> /tmp/file_err > /tmp/file_res
+ls elgyem9 2> /dev/null | sort
+cat -n ./*t */*t */*/*t */*/*/*t */*/*/*/*t 2> /dev/null | sort
+cat -n ./*8 */*8 */*/*8 */*/*/*8 */*/*/*/*8 2> /tmp/file_err | sort -r
+cat -n sealeo8 2> /tmp/file_err | grep -iv lli
+cat ./p* */p* */*/p* */*/*/p* */*/*/*/p* | sort -r

@@ -1,0 +1,32 @@
+#!/bin/bash
+cd ~/lab0
+chmod 777 vigoroth8
+cd vigoroth8
+chmod 777 nidoqueen
+chmod 777 lileep
+cd ../
+chmod 777 quilava6
+chmod 777 salamence5
+cd salamence5
+chmod 777 medititle
+cd ../
+ln -s ~/lab0/salamence5 Copy_24
+cp -r vigoroth8 ~/lab0/vigoroth8/nidoqueen
+cd ~/lab0/vigoroth8/nidoqueen/vigoroth8/nidoqueen
+rm -rf vigoroth8
+cd ~/lab0
+cp sealeo8 ~/lab0/salamence5/furret
+cat quilava6 > ./elgyem9/lilligantquilava
+cat ~/lab0/salamence5/medititle ~/lab0/vigoroth8/dugtrio > budew2_72
+ln ~/lab0/quilava6 ~/lab0/salamence5/medititequilava
+ln -s ~/lab0/sealeo8 ./elgyem9/lilligantsealeo
+cd vigoroth8
+chmod 373 nidoqueen
+chmod 335 lileep
+cd ../
+chmod 375 vigoroth8
+chmod 004 quilava6
+cd salamence5
+chmod 006 medititle
+cd ../
+chmod 312 salamence5

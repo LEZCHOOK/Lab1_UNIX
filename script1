@@ -1,0 +1,25 @@
+#!/bin/bash
+mkdir lab0
+cd lab0
+mkdir elgyem9 salamence5 vigoroth8
+echo "weigth=2.6 height=8.0 atk=3 def=4" > budew2
+echo "satk=8 sdef=7 spd=8" > quilava6
+echo "Ходы
+Aqua Tail Brine Dive Double-Edge Icy Wind Iron Tail Mud-Slap Rollout
+Signal Beam Sleep Talk Snore Super Fang Water Pulse" > sealeo8
+cd elgyem9
+echo "Тип диеты
+Herbivore" > poliwrath
+echo "Развитые способности Leaf Guard Flower
+Gift" > lilligant
+mkdir cottonee budew
+cd ../
+cd salamence5
+echo "Возможности Overland=6
+Surface=6 Sky=1 Jump=4 Power2=0 Intelligence=4 Aura=0" > medititle
+mkdir pidgey archeops furret hoothoot
+cd ../
+cd vigoroth8
+echo "Тип
+покемона  GROUND NONE" > dugtrio
+mkdir nidoqueen piloswine lileep
